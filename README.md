@@ -12,7 +12,7 @@
 
 > **Zero-cost, local-first B2B intelligence engine and visual CRM dashboard with decoupled multi-agent QA pipelines.** Eliminates $350+/mo external SaaS API overhead while maintaining enterprise deliverability and data safety.
 
-> 🚀 **[Try the Live Interactive Demo directly in your browser](https://kirilborysenko.github.io/b2b-lead-intelligence-agent/)** — Filter by status/market, inspect plain-text email drafts, and view generated Notion architecture blueprints without installing Python.
+> 🚀 **[Try the Live Interactive Demo directly in your browser](https://borkkiril.github.io/b2b-lead-intelligence-agent/)** — Filter by status/market, inspect plain-text email drafts, and view generated Notion architecture blueprints without installing Python.
 
 ---
 
