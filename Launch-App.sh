@@ -14,7 +14,5 @@ if [ -d ".venv" ]; then
     source .venv/bin/activate
     python3 main.py "$@"
 else
-    echo "Помилка: Віртуальне середовище .venv не знайдено."
-    echo "Будь ласка, спочатку встановіть залежності."
     exit 1
 fi
